@@ -1,4 +1,4 @@
-# V—AI Innovation Lab & Venture Studio
-We merge advanced research with venture creation to shape the future of intelligence.
+# V—Augmented Intelligence
+V augments human intelligence through research, products, and venture creation.
 Learn more at: https://v.ee
 
